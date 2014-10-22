@@ -85,10 +85,16 @@ tr.altrow {
 		font-size: 1em;
 }
 	
-.tags { padding: 2px; line-height: 2em; }
+.tags {
+	padding: 2px;
+	line-height: 2em;
+	text-align: center;
+}
+
 .tags a { padding: 0px; }
 
-ul li {
+.tags ul li {
+	display: inline;
 	list-style-type: none;
 }
 
