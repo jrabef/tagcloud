@@ -93,7 +93,7 @@ tr.altrow {
 
 .tags a { padding: 0px; }
 
-.tags ul li {
+.tags li {
 	display: inline;
 	list-style-type: none;
 }
